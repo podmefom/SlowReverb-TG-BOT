@@ -1,4 +1,4 @@
-# SlowRevert Music Bot 🎵
+# SlowReverb Music Bot 🎵
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-0088CC)](https://core.telegram.org/bots)
