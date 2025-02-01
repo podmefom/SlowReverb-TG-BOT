@@ -1,0 +1,8 @@
+.env
+*.db
+*.log
+__pycache__/
+*.mp3
+*.ogg
+*.wav
+venv/
